@@ -1,0 +1,15 @@
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/bin/Debug/net5.0/StaticExercise.deps.json
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/bin/Debug/net5.0/StaticExercise.runtimeconfig.json
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/bin/Debug/net5.0/StaticExercise.runtimeconfig.dev.json
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/bin/Debug/net5.0/StaticExercise.dll
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/bin/Debug/net5.0/ref/StaticExercise.dll
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/bin/Debug/net5.0/StaticExercise.pdb
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.csproj.AssemblyReference.cache
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.AssemblyInfoInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.AssemblyInfo.cs
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.dll
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/net5.0/ref/StaticExercise.dll
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.pdb
+/Users/JonathanGilmer/Desktop/Repos/StaticExercise/StaticExercise/obj/Debug/net5.0/StaticExercise.genruntimeconfig.cache
